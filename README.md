@@ -1,0 +1,2 @@
+# Laracomponent Example
+## Coming Soon
